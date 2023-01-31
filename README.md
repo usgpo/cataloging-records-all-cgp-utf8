@@ -17,3 +17,4 @@ Please visit LSCM's related repositories for more information about their conten
 - [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
 - [cataloging-records-all-serial-set-marcxml](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 - [cataloging-records-all-serial-set-utf8](https://github.com/usgpo/cataloging-records-serial-set-utf8)
+- [cataloging-records collections](https://github.com/usgpo/cataloging-records)
