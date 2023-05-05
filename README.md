@@ -12,9 +12,10 @@ To download the files, use the "Code" button in the right-hand section of this p
 
 ## Other LSCM Repositories
 
-Please visit LSCM's related repositories for more information about their contents.
+LSCM also maintains and develops other repositories:
 
-- [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
-- [cataloging-records-all-serial-set-marcxml](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
-- [cataloging-records-all-serial-set-utf8](https://github.com/usgpo/cataloging-records-serial-set-utf8)
-- [cataloging-records collections](https://github.com/usgpo/cataloging-records)
+- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
+- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
+- [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
+- [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
+- [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
