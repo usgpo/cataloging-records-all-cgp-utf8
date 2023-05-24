@@ -6,7 +6,7 @@ These files and the monthly CGP files in the [CGP MARC Records](https://github.c
 
 The records are in UTF-8. The total size of the files is 1.87 GB (2,010,716,169 bytes). Each of the 26 files in the repository holds approximately 40,000 records.
 
-These same records are available in MARCXML format from the [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml) repository.
+These same records are available in MARC XML format from the [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml) repository.
 
 To download the files, use the "Code" button in the right-hand section of this page and select "Download ZIP." The ZIP file contains all of the files in the repository.
 
