@@ -4,7 +4,7 @@ The U.S. Government Publishing Office (GPO) is making available all MARC bibliog
 
 These files and the monthly CGP files in the [CGP MARC Records](https://github.com/usgpo/cataloging-records/tree/master/CGP_MARC_Records) collection essentially represent the entire CGP. GPO may periodically refresh the files in the All_CGP_Records collection with a new snapshot of the whole CGP.
 
-The records are in UTF-8. The total size of the files is 1.89 GB. Each of the 28 zipped files in the repository holds approximately 40,000 records.
+The records are in UTF-8. The total size of the files is 368MB. Each of the 28 zipped files in the repository holds approximately 40,000 records.
 
 These same records are available in MARC XML format from the [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml) repository.
 
