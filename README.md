@@ -16,6 +16,30 @@ LSCM develops and maintains other repositories:
 
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
 - [CGP on GitHub](https://github.com/usgpo/cataloging-records)
-- [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
+- [CGP Geographic-Based Record Sets](https://github.com/usgpo/cataloging-records-geographic-based)
+- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+
+## Repository History and Versions
+
+GitHub uses a versioning system to provide access to the iterations of a repository. This enables a user to return to the state of a repository before the various changes ("commits" in GitHub terminology) that were made to it.
+
+**To see a list of versions of the repository as a whole, follow these steps:**
+
+- Click or tap on "commits" in the top right-hand section of the page
+  - ![Image shows pointer to 'commits' link in upper right-hand of main file list](images/commit_history_link.png)
+- On the "Commits" page, choose the date of the version to be retrieved and then click or tap the "Browse the repository at this point in the history" link.
+  - ![Image shows pointer to "Browse the repository at this point in the history" link](images/collections_history_link.png)
+- The resources in the repository on that date will be available for viewing  and downloading.
+
+**To see a list of versions of a particular collection, follow these steps:**
+
+- Click or tap on the name of a collection in the Collections List.
+- Click or tap on "History" in the top right-hand corner of the collection page.
+  - ![Image shows the "History" link on ](images/browse_history_link.png)
+- On the "History" page, choose the date of the version to be retrieved.
+- Click or tap on the "Browse the repository at this point in the history" icon.
+  - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
+- The main page of the repository on that date will be displayed.
+- The resources in the repository on that date will be available for viewing and downloading.
