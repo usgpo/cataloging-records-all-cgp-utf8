@@ -1,6 +1,6 @@
 # All CGP Records (MARC UTF-8)
 
-## PLEASE NOTE: We are aware that the contents of this repository and the All CGP Records (MARC UTF-8) repository cannot be downloaded. We are working to resolve the issue as soon as possible.
+## PLEASE NOTE: We are aware that the contents of this repository and the All CGP Records (MARC XML) repository cannot be downloaded. We are working to resolve the issue as soon as possible.
  
 The U.S. Government Publishing Office (GPO) is making available all MARC bibliographic records (1,096,123 records) in the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov) as of February 2025. The CGP is the U.S. Government Publishing Office's (GPO) finding tool for electronic and print publications from the legislative, executive, and judicial branches of the U.S. Federal Government. These publications comprise the National Bibliography of U.S. Government Publications.
 
