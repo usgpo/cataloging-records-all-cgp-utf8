@@ -1,4 +1,4 @@
-# cataloging-records-all-cgp-utf8
+# All CGP Records (MARC UTF-8)
 
 ## PLEASE NOTE: We are aware that the contents of this repository and the All CGP Records (MARC UTF-8) repository cannot be downloaded. We are working to resolve the issue as soon as possible.
  
