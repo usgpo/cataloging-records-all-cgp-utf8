@@ -23,7 +23,7 @@ LSCM develops and maintains other repositories:
 
 ## Repository History and Versions
 
-GitHub uses a versioning system to provide access to the iterations of a repository. This enables a user to return to the state of a repository before the various changes ("commits" in GitHub terminology) that were made to it.
+GitHub uses a versioning system to provide access to the iterations of a repository. This enables a user to return to the state of a repository before the various changes ("commits" in GitHub terminology) that were made to it..
 
 **To see a list of versions of the repository as a whole, follow these steps:**
 
