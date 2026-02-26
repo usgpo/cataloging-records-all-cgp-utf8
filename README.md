@@ -42,4 +42,4 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 - Click or tap on the "Browse the repository at this point in the history" icon.
   - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
-- The resources in the repository on that date will be available for viewing and downloading..
+- The resources in the repository on that date will be available for viewing and downloading.
